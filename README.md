@@ -1,1 +1,3 @@
 # BinaryFormatterSample
+這是一個範例程式，展示如何使用 BinaryFormatter 來序列化和反序列化物件。
+並且可以透過下中斷點, 驗證實際的邏輯是執行在Local還是Remote
